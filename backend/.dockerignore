@@ -1,0 +1,7 @@
+node_modules/
+Dockerfile
+.env.example
+.prettierrc.js
+.prettierignore
+.gitignore
+README.md
